@@ -1,0 +1,61 @@
+L|Programação em Python: fundamentos e resolução de problemas|2018|10000|objetos,programação|Ernesto Costa|FCA|9-123435-476548
+<resumo>Este é um livro que apresenta os fundamentos da programação em Python, linguagem de programação de alto nível, estruturado em duas partes.</resumo>
+L|Melody Detection in Polyphonic Audio: From Pitch Extraction to Note Identification|2009|5000|pesquisa,aúdio|Rui Pedro Paiva|Lambert Academic Publishing|9-3454326-6234650
+<resumo>O atual boom da música digital exige ferramentas de análise, pesquisa e recuperação mais flexíveis e centradas no usuário. Isso exige
+mecanismos capazes de examinar os sinais de áudio e extrair conteúdo de alto nível deles.</resumo>
+L|New Directions for Intelligent tutoring systems|1992|2000|Intelligent Tutoring Systems|Ernesto Costa|Springer-Verlag|9-543765-748690
+<resumo>Este livro contém versões revistas dos artigos apresentados no Workshop de Investigação Avançada da OTAN "New Directions
+for Intelligent Tutoring Systems" realizado em Sintra, Portugal, de 6 a 10 de Outubro de 1991.</resumo>
+L|Service Systems: Concepts, Modeling, and Programming|2014|6000|SpringerBrief,service systems|Jorge C. S. Cardoso,R. Lopes,G. Poels|Springer|9-873654-425628
+<resumo>This SpringerBrief explores the internal workings of service systems. The authors propose a lightweight semantic model for an effective representation to capture the essence of service systems. </resumo>
+L|Fundamentos de Programação em JAVA - 4º edição revista e aumentada|2012|4000|linguagem JAVA,linguagem orientada aos objetos|Antonio Jose Mendes,Maria Jose Patricio Marcelino|FCA|9-875765-643458
+<resumo>A linguagem JAVA, atualmente uma das linguagens de programação mais utilizadas em ambientes profissionais, é uma linguagem orientada aos objetos, pelo que é importante aprender os conceitos fundamentais deste paradigma de programação. </resumo>
+CP|Computational Creativity - The Philosophy and Engineering of Autonomously Creative Systems|2019|12000|capacity of machines, Computational creativity|J. J. Romero,P. Martins,F. A. Cardoso,João Correia,Penousal Machado|Springer International Publishing AG|9-768767-057687|Breaking the Mould: An Evolutionary Quest for Innovation Through Style Change - ch. 16|359|405
+<resumo>Computational creativity is an emerging field of research within AI that focuses on the capacity of machines to both generate and evaluate novel outputs that would, if produced by a human, be considered creative. </resumo>
+CP|Cyber Resilience of Systems and Networks|2019|2000|concepts,expertise|Marilia Curado,Henrique Madeira,Licínio Roque,P. R. d. Cunha,B. Cabral,D. Abreu,J. Barata,R. K. Immich|Springer|9-890879-756788|Internet of Things-ch16|381|401
+<resumo>This book introduces fundamental concepts of cyber resilience, drawing expertise from academia, industry, and government. Resilience is defined as the ability to recover from or easily adjust to shocks and stresses. </resumo>
+CP|Complexity Challenges in Cyber Physical Systems: Using Modeling and Simulation (M&S) to Support Intelligence-Adaptation and Autonomy|2019|20500|engineering,technologies|Fernando Barros|Wiley|9-890654-756472|A Unifying Framework for the Hierarchical Co-Simulation of Cyber-Physical Systems-ch5|111|130
+<resumo>This book provides the state-of-the-art in methods and technologies that aim to elaborate on the modeling and simulation support to cyber physical systems (CPS) engineering across many sectors such as healthcare, smart grid, or smart home. </resumo>
+CP|Handbook of Grammatical Evolution|2018|20000|handbook,Grammatical Evolution|Nuno Lourenço,Ernesto Costa,Penousal Machado,F. Assunção,F. B. Pereira|Springer|9-789543-934269|Structured Grammatical Evolution: A Dynamic Approach - ch1|1|24
+<resumo>This handbook offers a comprehensive treatise on Grammatical Evolution (GE), a grammar-based Evolutionary Algorithm that employs a function to map binary strings into higher-level structures such as programs. GE's simplicity and modular nature make it a very flexible tool.</resumo>
+CP|Redesigning the Future of Internet Architectures|2015|6500|Redesigning|Tiago Cruz,Paulo Simões,E. Monteiro|IGI Global|9-890654-9985674|Optimizing the Delivery of Services Supported by Residential Gateways: Virtualized Residential Gateways-ch19|431|473
+<resumo>The Handbook of Research on Redesigning the Future of Internet Architectures covers some of the hottest topics currently being debated by the Internet community at large, including Internet governance, privacy issues, service delivery automation, advanced networking
+schemes, and new approaches to Internet traffic-forwarding and path-computation mechanics. </resumo>
+AC|Using Deep Q-learning for Optimization of Aircraft Maintenance Scheduling|2020|2600|advantage|Bernardete Ribeiro,P. Andrade,C. Silva|Portuguese Conference on Pattern Recognition-RECPAD 2020|30/11/2021|Évora
+<resumo>Taking advantage of the recent advancement in machine learning and the availability of big data, computers have become smarter than ever in understanding complicated data. </resumo>
+AC|Emojinating Co-Creativity: Integrating Self-Evaluation and Context-Adaptation|2020|3400|computational,creativity|Nuno Lourenço,Penousal Machado,J. M. Cunha,P. Martins|Proceedings of the Eleventh International Conference on Computational Creativity|7/11/2021|Coimbra
+<resumo>Computational creativity is the art, science, philosophy and engineering of computational systems which, by taking on particular responsibilities, exhibit behaviours that unbiased observers would deem to be creative. </resumo>
+AC|Gestão e Análise de Riscos na Plataforma de Proteção de Dados Pessoais Poseidon|2020|6700|engenheiros|Paulo Simões,Marilia Curado,R. Casaleiro,P. M. G. d. Silva,N. Antunes,E. Monteiro,F. Boavida|9º Congresso Luso-Moçambicano de Engenharia|29/11/2021|Moçambique
+<resumo>O objectivo é juntar engenheiros, professores e técnicos de engenharia e áreas afins para uma troca de ideias e experiências em alguns dos tópicos da engenharia actual</resumo>
+AC|Interpretability Vs. Complexity: The Friction In Deep Neural Networks|2020|2100|intelligence,largest technical|Pedro Manuel Henriques da Cunha Abreu,J. P. Amorim,M. Reyes,J. Santos|2020 International Joint Conference on Neural Networks (IJCNN)|19/07/2021|United Kingdom
+<resumo>IEEE WCCI 2020 is the world’s largest technical event on computational intelligence, featuring the three flagship conferences of the IEEE Computational Intelligence Society (CIS) under one roof: The 2020 International Joint Conference on Neural Networks (IJCNN 2020); the 2020
+IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2020); and the 2020 IEEE Congress on Evolutionary Computation (IEEE CEC 2020).</resumo>
+AC|Using Skill Rating as Fitness on the Evolution of GANs|2020|10800|Applications,EvoWorkshops|Victor Costa,Nuno Lourenço,João Correia,Penousal Machado|EvoAPPS2020|7/04/2021|Spain
+<resumo>EvoApplications, the International Conference on the Applications of Evolutionary Computation -formerly known as EvoWorkshops- brings together researchers in applications of Evolutionary Computation and other Nature-inspired techniques.</resumo>
+LAC|Drug-Target Interaction Prediction: End-to-End Deep Learning Approach|2020|1000|descoberta,reposicionamento|Nelson R. C. Monteiro,Bernardete Ribeiro,Joel P. Arrais|IEEE and Association for Computing Machinery|9-213487-762123|IEEE/ACM Transactions on Computational Biology and Bioinformatics|1|1
+<resumo>A descoberta de potenciais Interações Fármaco-Alvo é uma etapa determinante no processo de descoberta e reposicionamento de fármacos, uma vez
+que a eficácia do tratamento antibiótico disponível está a diminuir, provocado pelo aumento da sua utilização indevida.</resumo>
+LAC|Novel audio features for music emotion recognition|2020|1500|estado da arte|R. Panda,R. Malheiro,Rui Pedro Paiva|IEEE Transactions on Affective Computing|9-876453-002867|IEEE Transactions on Affective Computing -vol. 11 -no. 4|614|626
+<resumo>Este trabalho avança o estado da arte do reconhecimento de emoções musicais ao propor novos recursos de áudio emocionalmente relevantes. Revisamos os recursos de áudio existentes
+implementados em estruturas conhecidas e suas relações com os oito conceitos musicais comumente definidos.</resumo>
+LAC|Proceedings of the 18th European Conference on Cyber Warfare and Security (ECCWS 2019)|2019|4000|trabalho,Guerra Cibernética e Segurança|Tiago Cruz,Paulo Simões|ACPIL|9-567876-902345|8th European Conference on Cyber Warfare and Security (ECCWS 2019)|24|40
+<resumo>Representa o trabalho de alguns contribuintes para a 18ª Conferência Europeia sobre Guerra Cibernética e Segurança (ECCWS 2019),
+organizada pela Universidade de Coimbra, Portugal, de 4 a 5 de julho de 2019.
+O Presidente da Conferência é Tiago Cruz e o Presidente do Programa é Paulo Simões, de Universidade de Coimbra.</resumo>
+LAC|EuroGP: European Conference on Genetic Programming 2020|2020|1500|Evo * 2020 EvoCOP,EvoApplications|Nuno Lourenço|Springer|9-789045-345765|24th European Conference on Genetic Programming (EuroGP) 2021|40|60
+<resumo>Este livro constitui o processo de arbitragem da 23ª Conferência Europeia de Programação Genética, EuroGP 2020, realizada no âmbito
+do Evo * 2020, em Sevilha, Espanha, em abril de 2020, co-localizada com os eventos Evo * 2020 EvoCOP, EvoMUSART e EvoApplications.</resumo>
+LAC|Risk Management and Privacy Violation Detection in the PoSeID-on Data Privacy Platform|2020|1400|Computer Science|P. M. G. d. Silva,R. Casaleiro,Paulo Simões,N. Antunes,Marilia Curado,Edmundo Monteiro|Springer|9-875463-754324|SN Computer Science, vol. 1|800|400
+<resumo>SN Computer Science is a broad-based, peer reviewed journal that publishes original research in all the disciplines of computer science including various inter-disciplinary aspects. </resumo>
+AR|Proceedings of Next Generation Networking Middleware|2009|200|confiabilidade,segurança|Marilia Curado,S. Figueira|Sixth International Workshop|08/09/2009|100
+<resumo>Embora a confiabilidade e a segurança se tornem as pedras angulares da sociedade da informação, elas são prejudicadas pela mudança, imprecisão e comportamento emergente devido à escala, dinamismo e heterogeneidade.
+Para enfrentar esses desafios para a computação de Internet da próxima geração, as principais propriedades extrafuncionais não devem ser mais um "complemento" ou uma "tarefa ponta a ponta", mas sim incorporadas por meio de Middleware.</resumo>
+AR|Actas da 4ª Conferência Nacional sobre Segurança Informática nas Organizações|2008|1600|Segurança Informática|Paulo Simões,Edmundo Monteiro|Actas da 4ª Conferência Nacional sobre Segurança Informática nas Organizações (SINO 2008)|07/07/2008|120
+<resumo>A Segurança Informática está na ordem do dia, no que diz respeito à segurança das organizações e indivíduos.</resumo>
+AR|Proceedings of Next Generation Networking Middleware|2009|400|International Workshop, Machine Learning|Marilia Curado,S. Figueira|Sixth International Workshop|14/10/2018|20
+<resumo>Proceedings of the Sixth International Workshop on Machine Learning covers the papers presented at the Sixth International Workshop of Machine Learning, held at Cornell University, Ithaca, New York (USA) on June 26-27, 1989. The book focuses on the processes, methodologies, techniques, and
+approaches involved in machine learning.</resumo>
+AR|Computational Intelligence|2016|400|Computational Intelligence|K. Madani,António Dourado, A. Rosa, J. Filipe,J. Kacprzyk|Studies in Computational Intelligence 613|07/12/2014|300
+<resumo>The book includes extended and revised versions of a set of papers from the 6th Int Joint Conference on Computational Intelligence (IJCCI 2013), Vilamoura, Portugal, September 20-22, 2013. </resumo>
+AR|Proceedings of the IM 2017|2017|600|researchers,practitioners|P. Chemouil,Edmundo Monteiro,M. Charalambides,Paulo Simões,E. Madeira, S. Secci, L. P. Gaspary,C. R. P. d. Santos|2017 IFIP/IEEE International Symposium on Integrated Network Management|08/10/2014|600
+<resumo>We are currently witnessing a very exciting time for researchers and practitioners of our community. The recent advances in network softwarization enabled by virtualization and cloud architectures provide an appropriate framework for the deployment of the anticipated 5G environment.</resumo>

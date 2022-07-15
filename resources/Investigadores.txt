@@ -1,0 +1,32 @@
+S,Adriana Leal,aleal@dei.uc.pt,AC,Tese de Adriana Leal,22/02/2021,Jorge Henriques
+E,Joel P. Arrais,jpa@dei.uc.pt,AC,G5.5,241543123
+E,Jorge Henriques,jh@dei.uc.pt,AC,D2.7,253475789
+E,António Dourado,dourado@dei.uc.pt,AC,D3.5,273123456
+S,Diogo Pessoa,dpessoa@dei.uc.pt,AC,Tese de Diogo Pessoa,22/05/2024,António Dourado
+E,Penousal Machado,machado@dei.uc.pt,CMS,D2.21,273123456
+E,Bernardete Ribeiro,bribeiro@DEI.UC.PT,AC,D1.18,291768326
+E,Rui Pedro Paiva,ruipedro@dei.uc.pt,CMS,D2.11,274123546
+S,João Gonçalves,jcfgonc@dei.uc.pt,CMS,Tese de João Gonçalves,5/8/2022,Penousal Machado
+E,Pedro Manuel Henriques da Cunha Abreu,pha@dei.uc.pt,CMS,D2.13,274123098
+S,Bruna Sousa,bruna@dei.uc.pt,CMS,Tese de Bruna Sousa,14/07/2026,Rui Pedro Paiva
+E,Maria Jose Patricio Marcelino,zemar@dei.uc.pt,CMS,E1.14,234647824
+E,João Correia,jncor@dei.uc.pt,ECOS,D3.12,241567234
+E,Nuno Lourenço,naml@dei.uc.pt,ECOS,D1.13,287345123
+S,Victor Costa,vfc@dei.uc.pt,ECOS,Tese de Victor Costa,12/06/2022,João Correia
+E,Ernesto Costa,ernesto@dei.uc.pt,ECOS,D3.6,275345987
+E,Licínio Roque,lir@dei.uc.pt,IS,D3.10,274123876
+S,João Miguel Brás Simões,jbsimoes@student.dei.uc.pt,ECOS,Tese de João Simões,22/10/2021,Ernesto Costa
+E,Rui Craveirinha,raneves@dei.uc.pt,IS,G6.7,354123876
+S,Luís Lucas Pereira,lpereira@dei.uc.pt,IS,Tese de Luis Pereira,2/11/2022,Licínio Roque
+E,Jorge C. S. Cardoso,jorgecardoso@dei.uc.pt,IS,D3.15,274567987
+S,Nuno Castelhano,nscc@dei.uc.pt,IS,Tese de Nuno Castelhano,8/10/2021,Jorge C. S. Cardoso
+E,Marilia Curado,marilia@dei.uc.pt,LCT,D3.20,287345123
+E,João P. Vilela,jpvilela@dei.uc.pt,LCT,D3.9,209678456
+E,Paulo Simões,psimoes@dei.uc.pt,LCT,D3.16,271456123
+E,Tiago Cruz,tjcruz@dei.uc.pt,LCT,D3.19,298456234
+E,Fernando Barros,barros@dei.uc.pt,SSE,D1.19,287456478
+S,Mariana Cunha,mccunha@dei.uc.pt,LCT,Tese de Mariana Cunha,16/11/2021,Tiago Cruz
+E,Henrique Madeira,henrique@dei.uc.pt,SSE,D3.2,271456987
+S,Charles Ferreira Gonçalves,charles@dei.uc.pt,SSE,Tese de Charles Ferreira,24/08/2024,Henrique Madeira
+E,Filipe Araujo,filipius@dei.uc.pt,SSE,D3.11,234765345
+S,João Rodrigues Campos,jrcampos@dei.uc.pt,SSE,Tese de João Campos,23/02/2023,Fernando Barros
